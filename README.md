@@ -20,7 +20,13 @@ limitations under the License.
 
 <p>
     <a href="https://docs.neuralmagic.com/sparseml/">
-        <img alt="Documentation" src="https://img.shields.io/website/http/docs.neuralmagic.com/sparseml/index.html.svg?down_color=red&down_message=offline&up_message=online&style=for-the-badge" height=25>
+        <img alt="Documentation" src="https://img.shields.io/badge/documentation-darkred?&style=for-the-badge&logo=read-the-docs" height=25>
+    </a>
+    <a href="https://join.slack.com/t/discuss-neuralmagic/shared_invite/zt-q1a1cnvo-YBoICSIw3L1dmQpjBeDurQ/">
+        <img src="https://img.shields.io/badge/slack-purple?style=for-the-badge&logo=slack" height=25>
+    </a>
+    <a href="https://discuss.neuralmagic.com/">
+        <img src="https://img.shields.io/badge/support%20forums-navy?style=for-the-badge&logo=discourse" height=25>
     </a>
     <a href="https://github.com/neuralmagic/sparseml/actions/workflows/quality-check.yaml">
         <img alt="Quality Check" src="https://img.shields.io/github/workflow/status/neuralmagic/sparseml/Quality%20Checks/main?label=Quality%20Checks&style=for-the-badge" height=25>
@@ -31,7 +37,7 @@ limitations under the License.
 </p>
 <p>
     <a href="https://github.com/neuralmagic/sparseml/blob/main/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/neuralmagic/sparseml.svg?color=purple&style=for-the-badge" height=25>
+        <img alt="GitHub" src="https://img.shields.io/github/license/neuralmagic/sparseml.svg?color=lightgray&style=for-the-badge" height=25>
     </a>
     <a href="https://github.com/neuralmagic/sparseml/releases">
         <img alt="GitHub release" src="https://img.shields.io/github/release/neuralmagic/sparseml.svg?style=for-the-badge" height=25>
@@ -47,7 +53,6 @@ limitations under the License.
     </a>
     <a href="https://twitter.com/neuralmagic">
         <img src="https://img.shields.io/twitter/follow/neuralmagic?color=darkgreen&label=Follow&style=social" height=25>
-    </a>
 </p>
 
 ## Overview
