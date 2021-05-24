@@ -362,31 +362,14 @@ Depending on your device and CUDA version, you may need to install additional de
 
 Note, TensorFlow V1 is no longer being built for newer operating systems such as Ubuntu 20.04. Therefore, SparseML with TensorFlow V1 is unsupported on these operating systems as well.
 
-## Resources and Learning More
+## Resources
 
-- [SparseZoo Documentation](https://docs.neuralmagic.com/sparsezoo/)
-- [SparseML Documentation](https://docs.neuralmagic.com/sparseml/)
-- [Sparsify Documentation](https://docs.neuralmagic.com/sparsify/)
-- [DeepSparse Documentation](https://docs.neuralmagic.com/deepsparse/)
-- Neural Magic [Blog](https://www.neuralmagic.com/blog/), [Resources](https://www.neuralmagic.com/resources/), [Website](https://www.neuralmagic.com/)
+### Learning More
+   
+- Documentation: [SparseML](https://docs.neuralmagic.com/sparseml/), [SparseZoo](https://docs.neuralmagic.com/sparsezoo/), [Sparsify](https://docs.neuralmagic.com/sparsify/), [DeepSparse](https://docs.neuralmagic.com/deepsparse/)
+- Neural Magic: [Blog](https://www.neuralmagic.com/blog/), [Resources](https://www.neuralmagic.com/resources/)
 
-## Contributing
-
-We appreciate contributions to the code, examples, integrations, and documentation as well as bug reports and feature requests! [Learn how here](https://github.com/neuralmagic/sparseml/blob/main/CONTRIBUTING.md).
-
-## Join the Community
-
-For user help or questions about Sparsify, sign up or log in: **Deep Sparse Community** [Discourse Forum](https://discuss.neuralmagic.com/) and/or [Slack](https://join.slack.com/t/discuss-neuralmagic/shared_invite/zt-q1a1cnvo-YBoICSIw3L1dmQpjBeDurQ). We are growing the community member by member and happy to see you there.
-
-You can get the latest news, webinar and event invites, research papers, and other ML Performance tidbits by [subscribing](https://neuralmagic.com/subscribe/) to the Neural Magic community.
-
-For more general questions about Neural Magic, please email us at [learnmore@neuralmagic.com](mailto:learnmore@neuralmagic.com) or fill out this [form](http://neuralmagic.com/contact/).
-
-## License
-
-The project is licensed under the [Apache License Version 2.0](https://github.com/neuralmagic/sparseml/blob/main/LICENSE).
-
-## Release History
+### Release History
 
 Official builds are hosted on PyPI
 
@@ -394,8 +377,26 @@ Official builds are hosted on PyPI
 - nightly (dev): [sparseml-nightly](https://pypi.org/project/sparseml-nightly/)
 
 Additionally, more information can be found via [GitHub Releases.](https://github.com/neuralmagic/sparseml/releases)
+ 
+### License
 
-## Citation
+The project is licensed under the [Apache License Version 2.0](https://github.com/neuralmagic/sparseml/blob/main/LICENSE).
+  
+## Community
+   
+### Contributing
+
+We appreciate contributions to the code, examples, integrations, and documentation as well as bug reports and feature requests! [Learn how here](https://github.com/neuralmagic/sparseml/blob/main/CONTRIBUTING.md).
+
+### Join the Community
+
+For user help or questions about SparseML, sign up or log in: **Deep Sparse Community** [Discourse Forum](https://discuss.neuralmagic.com/) and/or [Slack](https://join.slack.com/t/discuss-neuralmagic/shared_invite/zt-q1a1cnvo-YBoICSIw3L1dmQpjBeDurQ). We are growing the community member by member and happy to see you there.
+
+You can get the latest news, webinar and event invites, research papers, and other ML Performance tidbits by [subscribing](https://neuralmagic.com/subscribe/) to the Neural Magic community.
+
+For more general questions about Neural Magic, please email us at [learnmore@neuralmagic.com](mailto:learnmore@neuralmagic.com) or fill out this [form](http://neuralmagic.com/contact/).
+
+### Citations
 
 Find this project useful in your research or other communications? Please consider citing:
 
