@@ -346,7 +346,7 @@ Note, TensorFlow V1 is no longer being built for newer operating systems such as
 
 ### Learning More
    
-- Documentation: [SparseML](https://docs.neuralmagic.com/sparseml/), [SparseZoo](https://docs.neuralmagic.com/sparsezoo/), [Sparsify](https://docs.neuralmagic.com/sparsify/), [DeepSparse](https://docs.neuralmagic.com/deepsparse/)
+- Documentation: [SparseZoo](https://docs.neuralmagic.com/sparsezoo/), [Sparsify](https://docs.neuralmagic.com/sparsify/), [SparseML](https://docs.neuralmagic.com/sparseml/), [DeepSparse](https://docs.neuralmagic.com/deepsparse/)
 - Neural Magic: [Blog](https://www.neuralmagic.com/blog/), [Resources](https://www.neuralmagic.com/resources/)
 
 ### Release History
