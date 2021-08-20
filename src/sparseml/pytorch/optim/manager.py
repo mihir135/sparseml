@@ -385,8 +385,8 @@ class ScheduledModifierManager(BaseManager, Modifier):
         """
         if epoch is None:
             epoch = self._initialize_epoch
-            
-        if is_parallel_module(module):
+
+        if is_parallel_model(module):
             module = module.module  # unwrap parallel module
 
         if not self.initialized:
